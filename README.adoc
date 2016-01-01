@@ -1,0 +1,16 @@
+# Some Article Name
+Maverick Woo <maverick.woo@gmail.com>
+:stem: asciimath
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+
+## First Section
+
+* item 1
+* item 2
+* \(x^2 + y^2\)
+* \[x^2 + y^2\]
